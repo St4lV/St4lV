@@ -6,6 +6,6 @@
 
 - JavaScript enjoyer
 - Debian Linux servers
-- Wedev (new to)
+- Webdev (new to)
   
 ---
