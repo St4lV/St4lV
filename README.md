@@ -6,6 +6,7 @@
 
 - JavaScript enjoyer
 - Debian Linux servers
-- Webdev (new to)
+- Webdev
   
 ---
+Generally working on diverse project, mainly music related services or minecraft related projects
