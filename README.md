@@ -10,4 +10,6 @@
 - Java (JDK21, Gradle JDK17)
   
 ---
-Generally working on multiple projects, mainly music, related services or minecraft related projects
+- Generally working on multiple projects, mainly music related services or minecraft related projects
+
+---
