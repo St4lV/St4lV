@@ -6,7 +6,8 @@
 
 - JavaScript enjoyer
 - Debian Linux servers
-- Webdev
+- Webdev (React)
+- Java (JDK21, Gradle JDK17)
   
 ---
-Generally working on diverse project, mainly music related services or minecraft related projects
+Generally working on multiple projects, mainly music, related services or minecraft related projects
