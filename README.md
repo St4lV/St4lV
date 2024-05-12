@@ -8,7 +8,7 @@
 ### Web radio interfaces :
 
 ---
-<img src="https://www.svgrepo.com/show/349342/docker.svg" height="75" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="75" width="50"/><img src="https://raw.githubusercontent.com/St4lV/St4lV/d6fc35f2d681664475d2b7b47352bcdb66290f61/azuracast.svg" height= "75" width= "45"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="75" width="62"/>
+<img src="https://www.svgrepo.com/show/349342/docker.svg" height="75" width="50"/><img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="75" width="50"/><img src="https://raw.githubusercontent.com/St4lV/St4lV/d6fc35f2d681664475d2b7b47352bcdb66290f61/azuracast.svg" height= "75" width= "45"><img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="75" width="62"/><img src="https://raw.githubusercontent.com/St4lV/St4lV/89a08cb52a798e5ea1942e9d740384fce9b15218/javascript-3.svg" height="66" width="42"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" height="76" width="59"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" height="77" width="43"/>
 
     Webradio interface using Docker, React, Azuracast and Bash scripts :
     
