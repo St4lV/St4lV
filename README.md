@@ -45,7 +45,7 @@
 
 ### Minecraft mods :
 ---
-<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="75" width="65"/><img src="https://raw.githubusercontent.com/St4lV/St4lV/72e1d0f68c259cb73be8b0a6e8730adfea6c3625/forge%20logo.svg" height="70" width="68"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_H6E8CgleUYK6DRnhHFUeXfQPuGB3VzRptW97RMSSA&s" height="70" width="69"/>
+<img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" height="75" width="65"/><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRu_H6E8CgleUYK6DRnhHFUeXfQPuGB3VzRptW97RMSSA&s" height="70" width="69"/><img src="https://raw.githubusercontent.com/St4lV/St4lV/72e1d0f68c259cb73be8b0a6e8730adfea6c3625/forge%20logo.svg" height="70" width="68"/>
 
 
 ### RPG Economics : 
