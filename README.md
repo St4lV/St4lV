@@ -61,3 +61,21 @@
         * https://github.com/St4lV/RPG-Economics-Testing-core-calculs-module
         
 ---
+
+
+* ## ISF shaders :
+
+<img src="https://raw.githubusercontent.com/St4lV/St4lV/9b75cab36c24161952820d5e347bba60dd9fed47/isf.video.svg" height="80"/>
+
+---
+
+### Mirror Media Processing Shader *( MirrorMedia.fs )*:
+    Mirror horizontally and/or vertically processed media
+    
+* **Repository :**
+    
+    * https://github.com/St4lV/isf-shader-mirror-media
+* **Visualizer:**
+    
+    * https://editor.isf.video/shaders/66754444d15e30001ba16556
+---
