@@ -79,3 +79,13 @@
     
     * https://editor.isf.video/shaders/66754444d15e30001ba16556
 ---
+### Color Circles Image Generating Shader *( St4lV'sColorCircles.fs )*:
+    Generate circles expand to the exterior, 3 adjustables color sequence, and expension speed.
+    
+* **Repository :**
+    
+    * https://github.com/St4lV/isf-shader-color-circles
+* **Visualizer:**
+    
+    * https://editor.isf.video/shaders/66775283e0ca9e001a031006
+---
