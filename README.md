@@ -65,27 +65,26 @@
 
 * ## ISF shaders :
 
-<img src="https://raw.githubusercontent.com/St4lV/St4lV/9b75cab36c24161952820d5e347bba60dd9fed47/isf.video.svg" height="80"/>
+<img src="https://raw.githubusercontent.com/St4lV/St4lV/9b75cab36c24161952820d5e347bba60dd9fed47/isf.video.svg" height="80"/><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="75"/>
+
+    Shaders made on https://editor.isf.video/ using GLSL.
 
 ---
 
-### Mirror Media Processing Shader *( MirrorMedia.fs )*:
-    Mirror horizontally and/or vertically processed media
+### Processing Shaders:
+    Pack with every processing shaders i've made into one repository listing all the elements.
     
 * **Repository :**
     
-    * https://github.com/St4lV/isf-shader-mirror-media
-* **Visualizer:**
-    
-    * https://editor.isf.video/shaders/66754444d15e30001ba16556
+    * https://github.com/St4lV/isf-shader-processing
+      
 ---
-### Color Circles Image Generating Shader *( St4lV'sColorCircles.fs )*:
-    Generate circles expand to the exterior, 3 adjustables color sequence, and expension speed.
+
+### Generating Shaders:
+    Pack with every generating shaders i've made into one repository listing all the elements.
     
 * **Repository :**
     
-    * https://github.com/St4lV/isf-shader-color-circles
-* **Visualizer:**
-    
-    * https://editor.isf.video/shaders/66775283e0ca9e001a031006
+    * https://github.com/St4lV/isf-shader-generating
+      
 ---
