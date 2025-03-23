@@ -52,7 +52,7 @@
  
 * You can access to Curseforge page here : 
 
-        * https://legacy.curseforge.com/minecraft/mc-mods/golams  
+  * https://legacy.curseforge.com/minecraft/mc-mods/golams  
 
     * **Repository :**
     
