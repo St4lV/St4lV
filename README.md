@@ -62,7 +62,7 @@
 
 Adding new entity to the world that will help you automate your world !
  
-More infos in repository README.md (100+ downloads, thanks you <3 )
+More infos in repository README.md (200+ downloads, thanks you <3 )
 
 **[Repository](https://github.com/St4lV/Golams)** - **[Modrinth mod page](https://modrinth.com/mod/golams )** - **[Curseforge mod page](https://curseforge.com/minecraft/mc-mods/golams)**
 
