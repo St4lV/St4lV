@@ -25,7 +25,7 @@
 # <img src="https://raw.githubusercontent.com/St4lV/St4lV/89a08cb52a798e5ea1942e9d740384fce9b15218/javascript-3.svg" height="86"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" height="110"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" height="108"/>
 
 
- ## 2D turn based battler : 
+ ## 2D turn based battler (prototype) : 
  
  ### 2D battler game, in developpement.
  
@@ -39,7 +39,7 @@
 
 # <img src="https://godotengine.org/asset-library/assets/logo_dark.svg" height="60">
 
- ## Dungeon crawler game (protoype) : 
+ ## Dungeon crawler game (prototype) : 
  
  ### 2D game where you explore rooms with ennemies in random dungeon with predfined rooms.
  
