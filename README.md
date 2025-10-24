@@ -14,13 +14,13 @@ Express is this case is serving both :
 
 Service run on a Docker container, and can be updated with included bash script
 
+**[Repository](https://github.com/St4lV/qrcode-generator)** - **[Website](https://qrcode-generator.st4lv.fr/)**
+
 ### Made with :
 
 <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="60" width="60"> , <img src="https://raw.githubusercontent.com/St4lV/St4lV/89a08cb52a798e5ea1942e9d740384fce9b15218/javascript-3.svg" height="60"/> , <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" height="62"/> , <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" height="62"/> , <img src="https://www.svgrepo.com/show/349342/docker.svg" height="75" width="50"/> , <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="75" width="62"/>
 
 ---
-
-**[Repository](https://github.com/St4lV/qrcode-generator)** - **[Website](https://qrcode-generator.st4lv.fr/)**
 
 ## Pastanetwork Wiki Manager (v0.2.x):
 
