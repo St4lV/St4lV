@@ -1,6 +1,6 @@
 ## <img src="https://nodejs.org/static/logos/nodejsDark.svg" height=100>
 
-## Pastanerwtork Wiki Manager (v0.2.x):
+## Pastanetwork Wiki Manager (v0.2.x):
 
 ### Wiki Manager created for [Pastanetwork](https://www.pastanetwork.com)
 
