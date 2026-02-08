@@ -1,20 +1,21 @@
 # NodeJS based projects :
 <img src="https://nodejs.org/static/logos/nodejsDark.svg" height=100>
 
-## QR code generator v(1.0.x):
 
-### QR code generator web interface on NodeJS using Express.
+## Online Media Converter v(0.2.x):
 
-<img src="https://qrcode-generator.st4lv.fr/favicon.ico" width="100">
+### Selfhosted downloader, converter and qrcode generator web interface running on NodeJS using Express.
+
+<img src="https://raw.githubusercontent.com/St4lV/online-media-converter/refs/heads/main/node/client/favicon.ico" width="100">
 
 Express is this case is serving both :
 - API
 - HTML/JS/CSS files 
-- public assets (favicon.ico, sitemap.xml, robots.txt)
+- public assets (favicon.ico)
 
 Service run on a Docker container, and can be updated with included bash script
 
-**[Repository](https://github.com/St4lV/qrcode-generator)** - **[Website](https://qrcode-generator.st4lv.fr/)**
+**[Repository](https://github.com/St4lV/online-media-converter)**
 
 ### Made with :
 
@@ -71,44 +72,6 @@ Service run on a Docker container and needs a PostgreSQL database to work. <br>I
 <img src="https://icon.icepanel.io/Technology/svg/Discord.js.svg" height = 70> , <img src="https://img.icons8.com/?size=100&id=WNoJgbzDr3i2&format=png&color=000000" height="60" width="60"> , <img src="https://www.svgrepo.com/show/349342/docker.svg" height="75" width="50"/> , <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="75" width="62"/>
 
 ---
-
-## Tirnatek Radio (v2.4.x) :
-
-
-<img src="https://www.tirnatek.fr/DefaultIMG.png" width="200">
-
-### Webradio interface using Docker, React, Azuracast, upgradable by Bash script
-
-**[Repository](https://github.com/St4lV/docker-react-azuracast-web-interface)** - **[Website](https://www.tirnatek.fr/)**
-
-### Made with :
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="75" width="50"/> , <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" height="77" width="43"/> , <img src="https://raw.githubusercontent.com/St4lV/St4lV/d6fc35f2d681664475d2b7b47352bcdb66290f61/azuracast.svg" height= "75" width= "45"> , <img src="https://www.svgrepo.com/show/349342/docker.svg" height="75" width="50"/> , <img src="https://bashlogo.com/img/symbol/svg/full_colored_dark.svg" height="75" width="62"/>
-
----
-
-# Classic Web Technologies projects :
-
-<img src="https://raw.githubusercontent.com/St4lV/St4lV/89a08cb52a798e5ea1942e9d740384fce9b15218/javascript-3.svg" height="86"/><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Devicon-html5-plain-wordmark.svg" height="110"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" height="108"/>
-
-
-
- ## _(Deprecated)_ Tirnatek Radio (v2.2.x) : 
- 
- ### Webradio interface using Jquery
-
-**[Repository](https://github.com/St4lV/tirnatek.github.io)** - **[Website](https://st4lv.github.io/tirnatek.github.io/index.html)**
-
-### Made with :
-
-# <img src="https://www.svgrepo.com/show/452242/jquery.svg" height="68" width="59"/>
-
----
-
-# OpenGL based projects :
-
-## <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg" height="150"/>
-
 
 ## **ISF Shaders**
 
