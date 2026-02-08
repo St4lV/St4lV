@@ -37,7 +37,7 @@ Express is this case is serving both :
 Service run on a Docker container and needs a PostgreSQL database to work. <br>It can be updated with included bash script.
 
 
-**[Repository](https://github.com/pastanetwork/pasta-wiki-back)** - **Website (Not deployed yet)**
+**[Repository](https://github.com/pastanetwork/pasta-wiki-back)**
 
 ### Made with :
 
