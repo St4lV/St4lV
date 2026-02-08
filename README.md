@@ -2,7 +2,7 @@
 <img src="https://nodejs.org/static/logos/nodejsDark.svg" height=100>
 
 
-## Online Media Converter v(0.2.x):
+## Online Media Converter (v0.2.x):
 
 ### Selfhosted downloader, converter and qrcode generator web interface running on NodeJS using Express.
 
